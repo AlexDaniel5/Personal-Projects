@@ -7,6 +7,8 @@ To Start Web Server:
 - python .\manage.py makemigrations
 - python .\manage.py migrate
 - python .\manage.py runserver
+- Open another terminal and go into the path folder MusicController/frontend
+- Run the command npm run dev
 
 Important Notes:
 - You only have to run the server once and django will automatically make updates to the server as you edit the code
